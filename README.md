@@ -37,4 +37,4 @@ This project demonstrated the power of business intelligence in helping **Atliq 
 
 ## Dashboard Preview
 
-![Atliq Hospitality Dashboard](Dashboard_SS.png)
+![Atliq Hospitality Dashboard]()
