@@ -18,7 +18,7 @@ Atliq Grands has been in the hospitality business for over 20 years but has been
 
 ## Key Insights from the Analysis
 
-- **Mumbai** generates the highest revenue at **669 Million**, followed by **Bangalore**, **Hyderabad**, and **Delhi**.
+- **Mumbai** generates the highest revenue at **660.64 Million**, followed by **Bangalore**, **Hyderabad**, and **Delhi** and in percentage terms it accounts to around **39%** of total revenue.
 - **AtliQ Exotica** is the best-performing property with a revenue of **320 Million**, a rating of **3.62**, **57% occupancy**, and a **24.4% cancellation rate**.
 - **AtliQ Bay** has the highest occupancy rate at **66%**.
 - **Week 24** recorded the highest revenue, totaling **139.6 Million**.
