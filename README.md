@@ -1,4 +1,4 @@
-# AtliQ Hospitality Analysis - PowerBI
+# AtliQ Hospitality Analysis Dashboard- PowerBI
 
 ## Project Overview
 
@@ -18,13 +18,14 @@ Atliq Grands has been in the hospitality business for over 20 years but has been
 
 ## Key Insights from the Analysis
 
-- **Mumbai** generates the highest revenue at **660.64 Million**, followed by **Bangalore**, **Hyderabad**, and **Delhi** and in percentage terms it accounts to around **39%** of total revenue.
-- **AtliQ Exotica** is the best-performing property with a revenue share of **18.75%** with rating of **3.62**, **58% occupancy**, and a **24.4% cancellation rate**.
-- **AtliQ Bay** has the highest occupancy rate at **66%**.
-- **Week 24** recorded the highest revenue, totaling **139.6 Million**.
-- **Delhi** ranks highest in both occupancy and rating, followed by **Hyderabad**, **Mumbai**, and **Bangalore**.
-- Atliq lost approximately **298 Million** in revenue due to cancellations.
-- **Elite-type rooms** have the most bookings but also experience the highest cancellation rates.
+- **Mumbai** is the most profitable city with **660.64 million** in revenue, followed by **Bangalore**, **Hyderabad**, and **Delhi**. As a proportion of overall revenue, Mumbai accounts for approximately **39%**.
+As far as revenue share goes, **AtliQ Exotica** is the best-performing property with **18.75%** revenue share, **3.62** rating, **58% occupancy**, and **24.4% cancellation rate**.
+- At **66%**, **AtliQ Bay** has the greatest occupancy rate.
+- With **139.6 million** in income, **Week 24** was the highest.
+- In terms of rating and occupancy, **Delhi** is ranked top, followed by **Hyderabad**, **Mumbai**, and **Bangalore**.
+- Cancellations cost Atliq over **298 Million** in sales.
+- **Rooms of the elite type** receive the most reservations, but they also have the greatest cancellation rates.
+- Have added 7 tooltip charts in the pbix file beacuse of which by hovering over the individual key metrics we can see the trend analysis chart
 
 ## Tools & Technologies
 
